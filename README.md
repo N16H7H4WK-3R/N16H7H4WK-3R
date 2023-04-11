@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n16h7h4wk-3r&label=Profile%20views&color=0e75b6&style=flat" alt="n16h7h4wk-3r" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n16h7h4wk-3r" alt="n16h7h4wk-3r" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks, Backend Development**
 
