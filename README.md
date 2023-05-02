@@ -14,8 +14,6 @@
 
 - 📄 Know about my experiences [https://github.com/N16H7H4WK-3R](https://github.com/N16H7H4WK-3R)
 
-- ⚡ Fun fact **: Wanna collab with Elon Musk 😂**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aryankumar8146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryankumar8146" height="30" width="40" /></a>
