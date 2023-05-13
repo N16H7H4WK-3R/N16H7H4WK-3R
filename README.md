@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Web-Application Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n16h7h4wk-3r&label=Profile%20views&color=0e75b6&style=flat" alt="n16h7h4wk-3r" /> </p>
 
 
-- 🌱 I’m currently learning **Frameworks, Backend Development**
+- 🌱 I’m currently working on **Machine Learning, Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/N16H7H4WK-3R](https://github.com/N16H7H4WK-3R)
-
+- 👨‍💻 Some of my projects are available here
 - 💬 Ask me about **Django, Python**
 
 - 📫 How to reach me **aryan014kumar@gmail.com**
