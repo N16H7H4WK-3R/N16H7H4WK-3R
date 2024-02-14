@@ -1,16 +1,11 @@
 <div align="center">
-  <h1 style="font-family: Arial, sans-serif;">Hey Folks! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Welcome To N16H7H4WK-3R</h1>
 </div>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
-  <b>I'm Aryan</b>.
-    <i>
-        <br>
-        Currently learning to walk in Software/Full-Stack Development without falling on my bottom.<br>
-        Open to collaborating on interesting and innovative projects.<br>
-    </i>
 </p>
+Hi, I'm <b>Aryan Gupta</b>, a Full Stack Python developer 👨🏻‍💻 from <b>INDIA</b>. I'm a Results-oriented full stack developer with 2+ years experience developing, testing, and maintaining enterprise applications. Designed and developed over 10 advanced and multiple intermediate applications for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations.
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -41,6 +36,10 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
  </p>
+
+
+<img align="right" width="100%" height="400px" alt="GIF" style="border-radius: 10px; margin-bottom: 600px" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
+
 
 <br>
 <br>
